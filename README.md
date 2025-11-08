@@ -35,3 +35,8 @@
   <p>Game-Hub is a RAWG-inspired gaming platform where users can explore games, view details, and stay updated with the latest releases. Deployed on Vercel for seamless access.</p>
   <img src="https://github.com/rawanwehbe6/rawanwehbe6/blob/main/game-hub.gif?raw=true" width="800"/>
 </p>
+
+<p align="center">
+  <p>Public landing page promoting a Solitaire mobile game</p>
+  <img src="https://github.com/rawanwehbe6/rawanwehbe6/blob/main/solitaire.gif?raw=true" width="800"/>
+</p>
