@@ -29,3 +29,9 @@
 
 <a href="http://www.github.com/rawanwehbe6"><img src="https://github-readme-stats.vercel.app/api?username=rawanwehbe6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rawanwehbe6's GitHub stats" /></a>
 
+## 🌟Latest projects
+
+<p align="center">
+  <p>Game-Hub is a RAWG-inspired gaming platform where users can explore games, view details, and stay updated with the latest releases. Deployed on Vercel for seamless access.</p>
+  <img src="https://github.com/rawanwehbe6/rawanwehbe6/blob/main/game-hub.gif?raw=true" width="800"/>
+</p>
