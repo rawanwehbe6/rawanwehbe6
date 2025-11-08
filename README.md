@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/rawanwehbe6/rawanwehbe6/blob/main/RawanHead.gif?raw=true" width="800"/>
 </p>
+
 ## Intro
 
 🎓 CS student graduated in 2025
